@@ -1,0 +1,1 @@
+setContentView is a function that set the app to a particular "view" or screen. For our Hello World Application, this shows the user the screen with "Hello World!" on it as defined in activity_main.xml. 

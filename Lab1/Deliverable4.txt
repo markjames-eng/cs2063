@@ -1,0 +1,8 @@
+The 3 most commmon types of layouts are:
+- Linear Layout
+- Relative Layout
+- Constraint Layout
+
+
+Having a unquie id is important when using the relative layout, as views reference their layouts based on "sibling" views, which are defined by their id. Without the id you could not reference it.
+

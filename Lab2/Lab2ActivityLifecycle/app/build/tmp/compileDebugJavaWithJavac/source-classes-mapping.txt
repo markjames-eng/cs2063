@@ -1,0 +1,7 @@
+mobiledev/unb/ca/lab2activitylifecycle/ActivityTwo.java
+ mobiledev.unb.ca.lab2activitylifecycle.ActivityTwo
+mobiledev/unb/ca/lab2activitylifecycle/BuildConfig.java
+ mobiledev.unb.ca.lab2activitylifecycle.BuildConfig
+mobiledev/unb/ca/lab2activitylifecycle/ActivityOne.java
+ mobiledev.unb.ca.lab2activitylifecycle.ActivityOne
+ mobiledev.unb.ca.lab2activitylifecycle.ActivityOne$1
